@@ -1,0 +1,7 @@
+-   [ ] Create App:
+    -   [ ] Name of The App
+    -   [ ] Return 2 keys
+        -   [ ] One with read Access
+        -   [ ] One With master Access
+-   [ ] GET request to get value
+-   [ ] POST to set Value
